@@ -1,0 +1,1 @@
+{"rustc":7821584855021947355,"features":"","target":0,"profile":0,"path":0,"deps":[[5369882802339847131,"build_script_build",false,4482056808258086999]],"local":[{"RerunIfEnvChanged":{"var":"X86_64_PC_WINDOWS_MSVC_MAGIC_DIR","val":null}},{"RerunIfEnvChanged":{"var":"MAGIC_DIR","val":null}}],"rustflags":[],"metadata":0,"config":0,"compile_kind":0}

@@ -36,14 +36,15 @@ fn main() -> std::io::Result<()> {
                         break;
                     }
                     Ok(n) => {
-                        let message = String::from_utf8_lossy(&buffer[..n]).trim().to_string();
+                        let decrypted_buffer = uncrypt(buffer[..n].to_vec());
+                        let message = String::from_utf8_lossy(&decrypted_buffer[..]).trim().to_string();
                         println!("Received from {}: {}", client_addr, message);
 
                         let clients = clients_ref.lock().unwrap();
                         for mut c in clients.iter() {
                             if c.peer_addr().unwrap() != client_addr {
-                                let msg = format!("{}: {}", client_addr, message);
-                                c.write(msg.as_bytes()).unwrap();
+                                let encrypted_message = crypt(decrypted_buffer.clone());
+                                c.write(&encrypted_message).unwrap();
                             }
                         }
                     }
@@ -55,4 +56,12 @@ fn main() -> std::io::Result<()> {
             }
         });
     }
+}
+
+fn crypt(buffer: Vec<u8>) -> Vec<u8> {
+    buffer.iter().map(|b| b ^ 42).collect()
+}
+
+fn uncrypt(buffer: Vec<u8>) -> Vec<u8> {
+    buffer.iter().map(|b| b ^ 42).collect()
 }

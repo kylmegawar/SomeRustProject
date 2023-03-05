@@ -1,1 +1,1 @@
-/home/kylm/CLionProjects/server/target/debug/server: /home/kylm/CLionProjects/server/src/main.rs
+C:\Users\LoKy\CLionProjects\SomeRustProject\SomeRustProject\RustMessages\server\target\debug\server.exe: C:\Users\LoKy\CLionProjects\SomeRustProject\SomeRustProject\RustMessages\server\src\main.rs

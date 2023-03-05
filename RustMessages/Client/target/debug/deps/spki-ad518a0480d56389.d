@@ -1,0 +1,12 @@
+C:\Users\LoKy\CLionProjects\SomeRustProject\SomeRustProject\RustMessages\Client\target\debug\deps\spki-ad518a0480d56389.rmeta: C:\Users\LoKy\.cargo\registry\src\github.com-1ecc6299db9ec823\spki-0.5.4\src\lib.rs C:\Users\LoKy\.cargo\registry\src\github.com-1ecc6299db9ec823\spki-0.5.4\src\algorithm.rs C:\Users\LoKy\.cargo\registry\src\github.com-1ecc6299db9ec823\spki-0.5.4\src\error.rs C:\Users\LoKy\.cargo\registry\src\github.com-1ecc6299db9ec823\spki-0.5.4\src\spki.rs C:\Users\LoKy\.cargo\registry\src\github.com-1ecc6299db9ec823\spki-0.5.4\src\traits.rs C:\Users\LoKy\.cargo\registry\src\github.com-1ecc6299db9ec823\spki-0.5.4\src\../README.md
+
+C:\Users\LoKy\CLionProjects\SomeRustProject\SomeRustProject\RustMessages\Client\target\debug\deps\libspki-ad518a0480d56389.rlib: C:\Users\LoKy\.cargo\registry\src\github.com-1ecc6299db9ec823\spki-0.5.4\src\lib.rs C:\Users\LoKy\.cargo\registry\src\github.com-1ecc6299db9ec823\spki-0.5.4\src\algorithm.rs C:\Users\LoKy\.cargo\registry\src\github.com-1ecc6299db9ec823\spki-0.5.4\src\error.rs C:\Users\LoKy\.cargo\registry\src\github.com-1ecc6299db9ec823\spki-0.5.4\src\spki.rs C:\Users\LoKy\.cargo\registry\src\github.com-1ecc6299db9ec823\spki-0.5.4\src\traits.rs C:\Users\LoKy\.cargo\registry\src\github.com-1ecc6299db9ec823\spki-0.5.4\src\../README.md
+
+C:\Users\LoKy\CLionProjects\SomeRustProject\SomeRustProject\RustMessages\Client\target\debug\deps\spki-ad518a0480d56389.d: C:\Users\LoKy\.cargo\registry\src\github.com-1ecc6299db9ec823\spki-0.5.4\src\lib.rs C:\Users\LoKy\.cargo\registry\src\github.com-1ecc6299db9ec823\spki-0.5.4\src\algorithm.rs C:\Users\LoKy\.cargo\registry\src\github.com-1ecc6299db9ec823\spki-0.5.4\src\error.rs C:\Users\LoKy\.cargo\registry\src\github.com-1ecc6299db9ec823\spki-0.5.4\src\spki.rs C:\Users\LoKy\.cargo\registry\src\github.com-1ecc6299db9ec823\spki-0.5.4\src\traits.rs C:\Users\LoKy\.cargo\registry\src\github.com-1ecc6299db9ec823\spki-0.5.4\src\../README.md
+
+C:\Users\LoKy\.cargo\registry\src\github.com-1ecc6299db9ec823\spki-0.5.4\src\lib.rs:
+C:\Users\LoKy\.cargo\registry\src\github.com-1ecc6299db9ec823\spki-0.5.4\src\algorithm.rs:
+C:\Users\LoKy\.cargo\registry\src\github.com-1ecc6299db9ec823\spki-0.5.4\src\error.rs:
+C:\Users\LoKy\.cargo\registry\src\github.com-1ecc6299db9ec823\spki-0.5.4\src\spki.rs:
+C:\Users\LoKy\.cargo\registry\src\github.com-1ecc6299db9ec823\spki-0.5.4\src\traits.rs:
+C:\Users\LoKy\.cargo\registry\src\github.com-1ecc6299db9ec823\spki-0.5.4\src\../README.md:

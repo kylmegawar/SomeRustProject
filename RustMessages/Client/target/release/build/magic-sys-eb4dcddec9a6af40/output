@@ -1,0 +1,4 @@
+cargo:rerun-if-env-changed=X86_64_PC_WINDOWS_MSVC_MAGIC_DIR
+cargo:rerun-if-env-changed=MAGIC_DIR
+Could not find vcpkg package: Could not find Vcpkg tree: No vcpkg installation found. Set the VCPKG_ROOT environment variable or run 'vcpkg integrate install'
+cargo:rustc-link-lib=dylib=magic

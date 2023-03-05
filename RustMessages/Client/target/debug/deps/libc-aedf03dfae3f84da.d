@@ -1,0 +1,11 @@
+C:\Users\LoKy\CLionProjects\SomeRustProject\SomeRustProject\RustMessages\Client\target\debug\deps\libc-aedf03dfae3f84da.rmeta: C:\Users\LoKy\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.139\src\lib.rs C:\Users\LoKy\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.139\src\macros.rs C:\Users\LoKy\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.139\src\fixed_width_ints.rs C:\Users\LoKy\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.139\src\windows\mod.rs C:\Users\LoKy\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.139\src\windows\msvc\mod.rs
+
+C:\Users\LoKy\CLionProjects\SomeRustProject\SomeRustProject\RustMessages\Client\target\debug\deps\liblibc-aedf03dfae3f84da.rlib: C:\Users\LoKy\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.139\src\lib.rs C:\Users\LoKy\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.139\src\macros.rs C:\Users\LoKy\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.139\src\fixed_width_ints.rs C:\Users\LoKy\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.139\src\windows\mod.rs C:\Users\LoKy\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.139\src\windows\msvc\mod.rs
+
+C:\Users\LoKy\CLionProjects\SomeRustProject\SomeRustProject\RustMessages\Client\target\debug\deps\libc-aedf03dfae3f84da.d: C:\Users\LoKy\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.139\src\lib.rs C:\Users\LoKy\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.139\src\macros.rs C:\Users\LoKy\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.139\src\fixed_width_ints.rs C:\Users\LoKy\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.139\src\windows\mod.rs C:\Users\LoKy\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.139\src\windows\msvc\mod.rs
+
+C:\Users\LoKy\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.139\src\lib.rs:
+C:\Users\LoKy\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.139\src\macros.rs:
+C:\Users\LoKy\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.139\src\fixed_width_ints.rs:
+C:\Users\LoKy\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.139\src\windows\mod.rs:
+C:\Users\LoKy\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.139\src\windows\msvc\mod.rs:
