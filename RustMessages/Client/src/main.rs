@@ -24,7 +24,7 @@ fn main() -> io::Result<()> {
                 Ok(n) if n > 0 => {
                     let uncrypted_buffer = uncrypt(recv_buffer[..n].to_vec());
                     println!("{}", String::from_utf8_lossy(&uncrypted_buffer).trim());
-                    println!("j'écoute");
+                    
                 }
                 _ => {
                     break;
