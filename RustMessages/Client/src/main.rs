@@ -24,7 +24,7 @@ fn main() -> io::Result<()> {
                 Ok(n) if n > 0 => {
                     let uncrypted_buffer = uncrypt(recv_buffer[..n].to_vec());
                     println!("{}", String::from_utf8_lossy(&uncrypted_buffer).trim());
-                    
+
                 }
                 _ => {
                     break;
@@ -34,9 +34,7 @@ fn main() -> io::Result<()> {
     });
     loop {
         reader.read_line(&mut input)?;
-        let b64 = input_to_b64(input.trim().to_string());
-        /*stream.write_all(input.as_bytes())?;
-        input.clear();*/
+        let mut b64 = input_to_b64(input.trim().to_string());
         stream.write_all(b64.as_bytes())?;
         input.clear();
 
@@ -49,18 +47,16 @@ fn input_to_b64(input: String) -> String {
     let mut input = base64::encode(input);
     let args_vec: Vec<String> = env::args().collect();
     let key = args_vec[1].clone();
-    println!("key: {}", key);
     let sc = ShortCrypt::new(&key);
 
     let mut input = sc.encrypt_to_url_component(&input);
-    println!("input: {}", input);
+    println!("{}",input);
     input
 }
 
 fn uncrypt(recv_buffer: Vec<u8>) -> Vec<u8> {
     let args_vec: Vec<String> = env::args().collect();
     let key = args_vec[1].clone();
-    println!("key: {}", key);
     let sc = ShortCrypt::new(&key);
     let decrypted_buffer_str = String::from_utf8_lossy(&recv_buffer[..]);
     let mut decrypted_buffer = sc.decrypt_url_component(&decrypted_buffer_str).expect("Erreur lors du déchiffrement");
