@@ -3,9 +3,9 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
-  <component name="CMakePresetLoader"><![CDATA[{
-  "useNewFormat": true
-}]]></component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
   <component name="CMakeSettings">
     <configurations>
       <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
@@ -16,7 +16,88 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="071553a7-1053-4705-b139-9e231d7cf43a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cargo.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.toml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/.fingerprint/RustMap-df1b68bf83fca4cb/bin-RustMap" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/.fingerprint/RustMap-df1b68bf83fca4cb/bin-RustMap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/.fingerprint/RustMap-df1b68bf83fca4cb/bin-RustMap.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/.fingerprint/RustMap-df1b68bf83fca4cb/bin-RustMap.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/.fingerprint/RustMap-df1b68bf83fca4cb/output-bin-RustMap" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/.fingerprint/RustMap-df1b68bf83fca4cb/output-bin-RustMap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/RustMap.exe" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/RustMap.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/RustMap.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/RustMap.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/deps/RustMap.exe" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/deps/RustMap.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/deps/RustMap.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/deps/RustMap.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustMap-305djhileeu7l/s-gilk9gzesz-10yb7xr-2ndps2sglubi0/12eo7pfjpxqc7d12.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustMap-305djhileeu7l/s-gilk9gzesz-10yb7xr-2ndps2sglubi0/12o9gg7epntyyyt2.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustMap-305djhileeu7l/s-gilk9gzesz-10yb7xr-2ndps2sglubi0/13t0vausl35fayjg.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustMap-305djhileeu7l/s-gilk9gzesz-10yb7xr-2ndps2sglubi0/15tms8fh3n1d7p6v.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustMap-305djhileeu7l/s-gilk9gzesz-10yb7xr-2ndps2sglubi0/17dn3i5kftdn6rzw.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustMap-305djhileeu7l/s-gilk9gzesz-10yb7xr-2ndps2sglubi0/1efq0b4qfmxb0u4e.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustMap-305djhileeu7l/s-gilk9gzesz-10yb7xr-2ndps2sglubi0/1g9j2tzk1qu99jdk.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustMap-305djhileeu7l/s-gilk9gzesz-10yb7xr-2ndps2sglubi0/1n3cu0rxoflyf2kb.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustMap-305djhileeu7l/s-gilk9gzesz-10yb7xr-2ndps2sglubi0/1njd5ur29z1d8w0m.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustMap-305djhileeu7l/s-gilk9gzesz-10yb7xr-2ndps2sglubi0/1q4yipngnsq1640h.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustMap-305djhileeu7l/s-gilk9gzesz-10yb7xr-2ndps2sglubi0/1rkvu3ic0g72y24t.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustMap-305djhileeu7l/s-gilk9gzesz-10yb7xr-2ndps2sglubi0/1tehifz0w79j5d62.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustMap-305djhileeu7l/s-gilk9gzesz-10yb7xr-2ndps2sglubi0/1vz0av8ph2765iwy.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustMap-305djhileeu7l/s-gilk9gzesz-10yb7xr-2ndps2sglubi0/1wfwn7o26q8ibvm3.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustMap-305djhileeu7l/s-gilk9gzesz-10yb7xr-2ndps2sglubi0/1z4vwe3ur5zx9w79.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustMap-305djhileeu7l/s-gilk9gzesz-10yb7xr-2ndps2sglubi0/1zrk5vbjx9hlgyns.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustMap-305djhileeu7l/s-gilk9gzesz-10yb7xr-2ndps2sglubi0/21qlro5b00962m9d.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustMap-305djhileeu7l/s-gilk9gzesz-10yb7xr-2ndps2sglubi0/221hxtvfulfiaeuk.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustMap-305djhileeu7l/s-gilk9gzesz-10yb7xr-2ndps2sglubi0/22uw91hn2m8vlz1s.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustMap-305djhileeu7l/s-gilk9gzesz-10yb7xr-2ndps2sglubi0/25u6nrmkpvl1e4th.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustMap-305djhileeu7l/s-gilk9gzesz-10yb7xr-2ndps2sglubi0/27qpuuyo52epyucm.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustMap-305djhileeu7l/s-gilk9gzesz-10yb7xr-2ndps2sglubi0/2l6pauipghlgh0be.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustMap-305djhileeu7l/s-gilk9gzesz-10yb7xr-2ndps2sglubi0/2neyj4ct07ftdxoy.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustMap-305djhileeu7l/s-gilk9gzesz-10yb7xr-2ndps2sglubi0/2rtutcud0v3nmh9s.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustMap-305djhileeu7l/s-gilk9gzesz-10yb7xr-2ndps2sglubi0/2xgwbeb88wfgkqdr.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustMap-305djhileeu7l/s-gilk9gzesz-10yb7xr-2ndps2sglubi0/332u6a8if2v0jurb.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustMap-305djhileeu7l/s-gilk9gzesz-10yb7xr-2ndps2sglubi0/334zc9azkclxxyiv.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustMap-305djhileeu7l/s-gilk9gzesz-10yb7xr-2ndps2sglubi0/36ag8pe4epmawgcb.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustMap-305djhileeu7l/s-gilk9gzesz-10yb7xr-2ndps2sglubi0/37jorj6yn9gjifpl.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustMap-305djhileeu7l/s-gilk9gzesz-10yb7xr-2ndps2sglubi0/3agjxafvzg79hrvx.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustMap-305djhileeu7l/s-gilk9gzesz-10yb7xr-2ndps2sglubi0/3blhs3637r2alidr.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustMap-305djhileeu7l/s-gilk9gzesz-10yb7xr-2ndps2sglubi0/3ja2ph7ztxhw3w16.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustMap-305djhileeu7l/s-gilk9gzesz-10yb7xr-2ndps2sglubi0/3r1xbn65r7gkvb1c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustMap-305djhileeu7l/s-gilk9gzesz-10yb7xr-2ndps2sglubi0/3wuhhrlou1f19zjt.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustMap-305djhileeu7l/s-gilk9gzesz-10yb7xr-2ndps2sglubi0/3xyatvqfjxs6q48k.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustMap-305djhileeu7l/s-gilk9gzesz-10yb7xr-2ndps2sglubi0/3zzly2zuikw4hywq.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustMap-305djhileeu7l/s-gilk9gzesz-10yb7xr-2ndps2sglubi0/486bvc5d03lktbjg.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustMap-305djhileeu7l/s-gilk9gzesz-10yb7xr-2ndps2sglubi0/4c2jket8yhrpla9i.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustMap-305djhileeu7l/s-gilk9gzesz-10yb7xr-2ndps2sglubi0/4cy1phxm1qz1r9xq.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustMap-305djhileeu7l/s-gilk9gzesz-10yb7xr-2ndps2sglubi0/4dq8wmny1ptz1xzr.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustMap-305djhileeu7l/s-gilk9gzesz-10yb7xr-2ndps2sglubi0/4f5dnuvtdnqu7ay7.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustMap-305djhileeu7l/s-gilk9gzesz-10yb7xr-2ndps2sglubi0/4fjg0mo4gjv0t1x3.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustMap-305djhileeu7l/s-gilk9gzesz-10yb7xr-2ndps2sglubi0/4fprzgjxohbwm2nx.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustMap-305djhileeu7l/s-gilk9gzesz-10yb7xr-2ndps2sglubi0/4j6al9zkb2tfzy94.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustMap-305djhileeu7l/s-gilk9gzesz-10yb7xr-2ndps2sglubi0/4sgmigvzi9u0usg8.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustMap-305djhileeu7l/s-gilk9gzesz-10yb7xr-2ndps2sglubi0/502gcae4f4x499s8.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustMap-305djhileeu7l/s-gilk9gzesz-10yb7xr-2ndps2sglubi0/53xvclwzni51vo21.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustMap-305djhileeu7l/s-gilk9gzesz-10yb7xr-2ndps2sglubi0/59anf3hzg06lyajx.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustMap-305djhileeu7l/s-gilk9gzesz-10yb7xr-2ndps2sglubi0/5f22c5po1bpnasxm.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustMap-305djhileeu7l/s-gilk9gzesz-10yb7xr-2ndps2sglubi0/5o4a8h57w8trvza.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustMap-305djhileeu7l/s-gilk9gzesz-10yb7xr-2ndps2sglubi0/5sirwo6t0ln9c09.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustMap-305djhileeu7l/s-gilk9gzesz-10yb7xr-2ndps2sglubi0/6qk90pmyerk9uga.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustMap-305djhileeu7l/s-gilk9gzesz-10yb7xr-2ndps2sglubi0/7i4jiy6wr5v2qbz.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustMap-305djhileeu7l/s-gilk9gzesz-10yb7xr-2ndps2sglubi0/d2qu92zf4fyfni3.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustMap-305djhileeu7l/s-gilk9gzesz-10yb7xr-2ndps2sglubi0/dep-graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustMap-305djhileeu7l/s-gilk9gzesz-10yb7xr-2ndps2sglubi0/fu89aq8gvz44tjx.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustMap-305djhileeu7l/s-gilk9gzesz-10yb7xr-2ndps2sglubi0/nxu2rf6m9nkgzvn.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustMap-305djhileeu7l/s-gilk9gzesz-10yb7xr-2ndps2sglubi0/o4q94qxz476m70l.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustMap-305djhileeu7l/s-gilk9gzesz-10yb7xr-2ndps2sglubi0/query-cache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustMap-305djhileeu7l/s-gilk9gzesz-10yb7xr-2ndps2sglubi0/ruksemgt1586h9.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustMap-305djhileeu7l/s-gilk9gzesz-10yb7xr-2ndps2sglubi0/sqv4ajgpsg7pcl7.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustMap-305djhileeu7l/s-gilk9gzesz-10yb7xr-2ndps2sglubi0/vnkwmyc0edjll5h.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustMap-305djhileeu7l/s-gilk9gzesz-10yb7xr-2ndps2sglubi0/wd7jpdn1d0oeg2w.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustMap-305djhileeu7l/s-gilk9gzesz-10yb7xr-2ndps2sglubi0/work-products.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustMap-305djhileeu7l/s-gilk9gzesz-10yb7xr-2ndps2sglubi0/y4dxrzhr98zcn5m.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustMap-305djhileeu7l/s-gilk9gzesz-10yb7xr.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/release/.fingerprint/RustMap-df1b68bf83fca4cb/bin-RustMap" beforeDir="false" afterPath="$PROJECT_DIR$/target/release/.fingerprint/RustMap-df1b68bf83fca4cb/bin-RustMap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/release/.fingerprint/RustMap-df1b68bf83fca4cb/output-bin-RustMap" beforeDir="false" afterPath="$PROJECT_DIR$/target/release/.fingerprint/RustMap-df1b68bf83fca4cb/output-bin-RustMap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/release/RustMap.exe" beforeDir="false" afterPath="$PROJECT_DIR$/target/release/RustMap.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/release/RustMap.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/target/release/RustMap.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +108,7 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="tpo6rizr" />
@@ -48,6 +129,7 @@
     "WebServerToolWindowFactoryState": "false",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
+    "last_opened_file_path": "C:/Users/LoKy/CLionProjects/SomeRustProject/SomeRustProject/RustMap",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -78,6 +160,7 @@
   </component>
   <component name="RustProjectSettings">
     <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+    <option name="version" value="2" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -88,6 +171,7 @@
       <option name="presentableId" value="Default" />
       <updated>1677264175036</updated>
       <workItem from="1677264177853" duration="6579000" />
+      <workItem from="1677700089062" duration="888000" />
     </task>
     <servers />
   </component>
